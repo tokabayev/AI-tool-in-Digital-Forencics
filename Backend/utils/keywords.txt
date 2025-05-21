@@ -1,95 +1,154 @@
-drug
-drugs
-narcotic
-narcotics
-substance
-illegal substance
-controlled substance
-psychoactive
-intoxicant
-hallucinogen
-opiate
-opioid
-heroin
-meth
-methamphetamine
-crystal meth
-amphetamine
-speed
-ecstasy
-mdma
-lsd
 acid
-cocaine
-crack
-crack cocaine
-marijuana
-weed
-cannabis
-pot
-hash
-hashish
-kush
-joint
-blunt
-bong
-vape
-delta-8
-delta-9
-molly
-shrooms
-mushrooms
-psilocybin
-ketamine
-special k
-fentanyl
-xanax
+adderall
+amphetamine
+baked
 benzo
 benzodiazepine
-oxy
-oxycodone
-percocet
-adderall
-ritalin
-vicodin
-lean
-purple drank
-codeine
-syrup
-drug abuse
-drug addiction
-overdose
-relapse
-withdrawal
-rehab
-detox
-pill
-pills
-snort
-snorting
-inject
-injection
-needle
-shoot up
-trip
-high
-stoned
-baked
-zooted
-wasted
-dope
-narco
-trafficking
+blunt
+bong
+cannabis
 cartel
-smuggling
+cocaine
+codeine
+controlled substance
+crack
+crack cocaine
+crystal meth
 dealer
 dealing
-pushers
-substance abuse
-narcotics officer
-drug test
-urine test
-paraphernalia
-stash
-possession
+delta-8
+delta-9
+detox
 distribution
+dope
+drug
+drug abuse
+drug addiction
+drug test
+drugs
+ecstasy
+fentanyl
+hallucinogen
+hash
+hashish
+heroin
+high
+illegal substance
+inject
+injection
+intoxicant
+joint
+ketamine
+kush
+lean
+lsd
+marijuana
+mdma
+meth
+methamphetamine
+molly
+mushrooms
+narco
+narcotic
+narcotics
+narcotics officer
+needle
+opiate
+opioid
+overdose
+oxy
+oxycodone
+paraphernalia
+percocet
+pill
+pills
+possession
+pot
+psilocybin
+psychoactive
+purple drank
+pushers
+rehab
+relapse
+ritalin
+shoot up
+shrooms
+smuggling
+snort
+snorting
+special k
+speed
+stash
+stoned
+substance
+substance abuse
+syrup
+trafficking
+trip
+urine test
+vape
+vicodin
+wasted
+weed
+withdrawal
+xanax
+zooted
+апиын
+ашуға міну
+блант
+бонг
+бошки
+вмазаться
+галлюциноген
+гашиш
+героин
+герыч
+доза
+дурь
+дәрі
+дәрілер
+ес-түссіз
+есірткі
+есірткілер
+жрать
+залежи
+залипнуть
+зат
+инъекция
+кислота
+кодеин
+колоться
+колёса
+косяк
+курить
+ломка
+марихуана
+меф
+мука
+наркота
+наркотик
+наркотики
+нюхать
+отходняк
+параша
+передоз
+план
+приход
+реабилитация
+сидеть на игле
+синька
+сироп
+соль
+спайс
+торчать
+трава
+тыйым салынған зат
+тәуелділік
+фен
+ширка
+шишки
+шприц
+шөп
+қатты мас
+құтыру
+құю
