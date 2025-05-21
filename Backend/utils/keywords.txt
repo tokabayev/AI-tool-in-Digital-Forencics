@@ -1,0 +1,95 @@
+drug
+drugs
+narcotic
+narcotics
+substance
+illegal substance
+controlled substance
+psychoactive
+intoxicant
+hallucinogen
+opiate
+opioid
+heroin
+meth
+methamphetamine
+crystal meth
+amphetamine
+speed
+ecstasy
+mdma
+lsd
+acid
+cocaine
+crack
+crack cocaine
+marijuana
+weed
+cannabis
+pot
+hash
+hashish
+kush
+joint
+blunt
+bong
+vape
+delta-8
+delta-9
+molly
+shrooms
+mushrooms
+psilocybin
+ketamine
+special k
+fentanyl
+xanax
+benzo
+benzodiazepine
+oxy
+oxycodone
+percocet
+adderall
+ritalin
+vicodin
+lean
+purple drank
+codeine
+syrup
+drug abuse
+drug addiction
+overdose
+relapse
+withdrawal
+rehab
+detox
+pill
+pills
+snort
+snorting
+inject
+injection
+needle
+shoot up
+trip
+high
+stoned
+baked
+zooted
+wasted
+dope
+narco
+trafficking
+cartel
+smuggling
+dealer
+dealing
+pushers
+substance abuse
+narcotics officer
+drug test
+urine test
+paraphernalia
+stash
+possession
+distribution

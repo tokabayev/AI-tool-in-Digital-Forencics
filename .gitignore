@@ -1,0 +1,21 @@
+# ==== Backend ====
+/backend/__pycache__/
+/backend/.idea/
+/backend/.env
+/backend/temp/
+/backend/uploads/
+/backend/documents/
+/backend/media_analysis.db
+*.pyc
+*.db
+
+# ==== Frontend ====
+/frontend/node_modules/
+/frontend/dist/
+/frontend/.env.local
+
+# ==== General ====
+.DS_Store
+.env
+*.log
+*.sqlite3
