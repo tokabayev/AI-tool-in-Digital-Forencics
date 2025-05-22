@@ -2,18 +2,26 @@ acid
 adderall
 amphetamine
 baked
+bars
+beans
 benzo
 benzodiazepine
+blow
 blunt
 bong
+bud
 cannabis
+candy flipping
 cartel
+chillums
 cocaine
 codeine
+cook
 controlled substance
 crack
 crack cocaine
 crystal meth
+dabs
 dealer
 dealing
 delta-8
@@ -21,32 +29,49 @@ delta-9
 detox
 distribution
 dope
+downers
 drug
 drug abuse
 drug addiction
 drug test
+drugged
 drugs
+E
 ecstasy
 fentanyl
+fire
+fucked up
+ganja
+glass
+green
 hallucinogen
 hash
 hashish
 heroin
 high
+high as a kite
+H
+ice
 illegal substance
 inject
 injection
 intoxicant
+intoxicated
 joint
+junk
+K
+K-hole
 ketamine
 kush
 lean
+loud
 lsd
 marijuana
 mdma
 meth
 methamphetamine
 molly
+moon rocks
 mushrooms
 narco
 narcotic
@@ -62,58 +87,91 @@ paraphernalia
 percocet
 pill
 pills
+plug
 possession
 pot
+poppers
 psilocybin
 psychoactive
 purple drank
 pushers
+rail
+rach
 rehab
 relapse
 ritalin
+rolling
+sizzurp
 shoot up
 shrooms
+slurred speech
+smoking up
 smuggling
 snort
 snorting
+spun
 special k
 speed
+speedball
 stash
 stoned
+stims
 substance
 substance abuse
 syrup
+tabs
+THC
+toke
 trafficking
 trip
+tripping
+tweaker
+tweak
+uppers
 urine test
 vape
 vicodin
 wasted
 weed
 withdrawal
+XTC
 xanax
-zooted
-апиын
-ашуға міну
+yayo
+zaza
+za
+zip
+420
+710
+Tusi
+pink cocaine
+
+артемка
+алкаш
+алкоголик
+алкашня
+балдеж
 блант
 бонг
 бошки
+бухать
+бухло
+в хлам
 вмазаться
+вмазка
+варить
 галлюциноген
 гашиш
-героин
 герыч
+героин
 доза
+дождик
 дурь
-дәрі
-дәрілер
-ес-түссіз
-есірткі
-есірткілер
-жрать
-залежи
-залипнуть
+закладка
+закинуться
+зачехлиться
 зат
+затормозить
+зелье
 инъекция
 кислота
 кодеин
@@ -121,34 +179,183 @@ zooted
 колёса
 косяк
 курить
+кумар
+лирика
 ломка
+лсдешка
 марихуана
+метадон
 меф
+молочка
 мука
+муравьи
 наркота
 наркотик
 наркотики
+наша
+нашик
 нюхать
+откисать
 отходняк
+отлёт
+параша
+передоз
+плотный кайф
+плотно подсел
+приход
+придурь
+проперло
+пробить вену
+прифоткался
+посадка
+рейв
+реабилитация
+расчехлиться
+с кайфом
+сидеть на игле
+синька
+сироп
+снюхать
+соль
+соля
+спайс
+спайсы
+стрела
+таблы
+таблетосы
+торч
+торчать
+торчёвка
+торчок
+трава
+угашенный
+укуриться
+уланиться
+упоротый
+упасть
+фен
+фейерверк
+ширево
+ширка
+шишки
+шприц
+штырило
+экстаз
+эйфорик
+вырубило
+впал в приход
+движ
+на измене
+отъезд
+отвал башки
+мясо
+всосал
+обдолбанный
+обдолбаться
+ширнуться
+кайф
+зашторился
+
+
+дәрі
+дәрілер
+есірткі
+есірткілер
+ес-түссіз
+жындану
+жынданып қалу
+жындылық
+жындану
+жрать
+жынды су
+жындану
+залежи
+залипнуть
+запой
+закинуться
+зат
+инъекция
+кислота
+кодеин
+колоться
+косяк
+курить
+кумар
+лирика
+ломка
+марихуана
+метадон
+меф
+молочка
+мука
+нашик
+нашик
+нюхать
+откисать
+отходняк
+отлёт
 параша
 передоз
 план
 приход
+проперло
+пробить вену
 реабилитация
+рейв
 сидеть на игле
 синька
 сироп
+снюхать
 соль
+соля
 спайс
-торчать
+таблы
+таблетосы
+торч
+торчок
 трава
 тыйым салынған зат
 тәуелділік
+угашенный
+укуриться
+уланып қалу
+упоротый
 фен
 ширка
-шишки
-шприц
 шөп
-қатты мас
-құтыру
-құю
+экстаз
+эйфорик
+ашуға міну
+бұзылған сана
+бұзылған
+бәле
+боз
+бармаққа салу
+гашик
+дене мас
+дофа
+еcірткіге тәуелді
+елiру
+есінен кету
+естен тану
+иіскеу
+кайфовать
+кекс
+күю
+не істерін білмеу
+отыру
+откису
+расты
+сандырақ
+сүт
+шала мас
+шала есеңгіреу
+шала түсіну
+шайтан суы
+шектен шығу
+шөп иіскеу
+шырын
+туман сана
+уланған
+ұшып кету
+түк түсінбеу

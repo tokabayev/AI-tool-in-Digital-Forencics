@@ -1,6 +1,7 @@
 import React, { useState, useRef } from 'react';
 import { uploadFile, analyzeFile, downloadReport, downloadJsonReport } from '../api/api';
 import { UploadCloud, Loader2, CheckCircle, Download } from 'lucide-react';
+import { API_URL } from '../api/api';
 
 function Upload() {
   const [file, setFile] = useState(null);
@@ -11,18 +12,21 @@ function Upload() {
 
   const handleFileSelect = (f) => {
     const maxSizeMB = 25;
+    const supportedFormats = ['.mp3', '.wav', '.mp4', '.avi', '.mov', '.mkv'];
+
     if (!f) return;
-  
-    if (!f.type.match(/audio|video/)) {
-      alert('Only audio and video files are supported.');
+
+    const fileExt = '.' + f.name.split('.').pop().toLowerCase();
+    if (!supportedFormats.includes(fileExt)) {
+      alert('Only the following formats are supported: MP3, WAV, MP4, AVI, MOV, MKV.');
       return;
     }
-  
+
     if (f.size > maxSizeMB * 1024 * 1024) {
-      alert(`File too big. Maximum size — ${maxSizeMB} МБ.`);
+      alert(`File too big. Maximum size — ${maxSizeMB} MB.`);
       return;
     }
-  
+
     setFile(f);
     setReportId(null);
   };
@@ -43,17 +47,29 @@ function Upload() {
 
     try {
       const uploadResponse = await uploadFile(file, token);
+      if (!uploadResponse.ok) throw new Error('Upload failed');
       const uploadData = await uploadResponse.json();
+      console.log('Upload response:', uploadData);
+
       const analyzeResponse = await analyzeFile(uploadData.file_id, token);
+      if (!analyzeResponse.ok) throw new Error('Analysis failed');
       const analyzeData = await analyzeResponse.json();
-      const historyResponse = await fetch('http://127.0.0.1:8000/user/history', {
-        headers: { Authorization: `Bearer ${token}` }
+      console.log('Analyze response:', analyzeData);
+
+      const historyResponse = await fetch(`${API_URL}/user/history`, {
+        headers: { Authorization: `Bearer ${token}` },
       });
+      if (!historyResponse.ok) throw new Error('Failed to fetch history');
       const historyData = await historyResponse.json();
-      const latestRequest = historyData.find(req => req.file_id === uploadData.file_id);
+      console.log('History data:', historyData);
+
+      const latestRequest = historyData.find((req) => req.file_id === uploadData.file_id);
+      if (!latestRequest) throw new Error('Request not found in history');
+
       setReportId(latestRequest.id);
     } catch (err) {
-      alert('Upload failed');
+      console.error('Upload error:', err);
+      alert('Error: ' + (err.message || 'Operation failed'));
     } finally {
       setLoading(false);
     }
@@ -102,7 +118,7 @@ function Upload() {
           Upload Your Media
         </h1>
         <p className="text-gray-500 mb-8 text-sm md:text-base">
-          Drag and drop your audio or video file here, or select it manually. Supported formats: MP3, WAV, MP4, AVI.
+          Drag and drop your audio or video file here, or select it manually. Supported formats: MP3 WAV MP4 AVI MOV MKV.
           Maximum file size 25 MB.
         </p>
 
@@ -128,7 +144,7 @@ function Upload() {
           </p>
           <input
             type="file"
-            accept=".mp3,.wav,.mp4,.avi"
+            accept=".mp3 .wav .mp4 .avi .mov .mkv"
             className="hidden"
             ref={inputRef}
             onChange={(e) => handleFileSelect(e.target.files[0])}
